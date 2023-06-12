@@ -1,4 +1,5 @@
 "use strict";
+console.log('Hello, World!');
 
 const selSum1 = document.querySelector(".sum-one");
 const selSum2 = document.querySelector(".sum-two");
